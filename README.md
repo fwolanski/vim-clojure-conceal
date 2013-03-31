@@ -19,7 +19,7 @@ becomes:
 
 It requires at least Vim 7.3 and a unicode font.
 
-### `g:clojure_lambda_conceal`
+### `g:clojure_conceal_extras`
 
 Enabling this option changes `fn`, `defn-`, `letfn`, and `#()` to the
 Unicode lambda symbol as well.
